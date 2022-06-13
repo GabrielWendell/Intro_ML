@@ -22,17 +22,8 @@ Os `Notebooks` estão organizados em pastas para uma melhor logística deste min
 - [`Listas`](https://github.com/GabrielWendell/Intro_ML/tree/main/Listas): Pasta contendo listas de problemas propostos.
 - [`Informações`](https://github.com/GabrielWendell/Intro_ML/tree/main/Infomações): Pasta contendo algumas informações importantes relativas ao minicurso.
 
-## Sobre o PET
-O Programa de Educação Tutorial (PET) é um programa do Governo Federal Brasileiro de estímulo à pesquisa e extensão universitárias no nível de graduação. O programa é subordinado à Secretaria de Ensino Superior (SESu) do Ministério da Educação (MEC). Criado em 1989 pelo Professor Doutor Liacir Lucena, o PET – Física faz parte do primeiro grupo de PETs do RN e é o pioneiro no Brasil em cursos de Física. Atualmente, o PET de Física possui doze (12) bolsistas e cinco (5) voluntários. A nossa estrutura consiste de uma sala de estudos equipada com ar-condicionado, mesas individuais para os petianos, computadores conectados a internet e outros itens.
 
-#### Projetos do PET - Física UFRN
-- [PET - Física UFRN](https://petfisica.home.blog)
-- [Curadoria PET](https://petfisica.home.blog/curadoria-do-pet/)
-- [EducaPET](https://petfisica.home.blog/educapet/)
-- [OlimPET](https://petfisica.home.blog/olimpet/)
-- [PET.py](https://petfisica.home.blog/pet-py/)
-
----
+### Para refletir...
 
 *"O aprendizado automático nos permite construir soluções de software que superam o entendimento humano e mostram que a inteligência artificial pode inervar qualquer indústria"*
 - Steve Jurvetson, membro do conselho da **SpaceX** e da **Tesla**.
@@ -42,4 +33,16 @@ O Programa de Educação Tutorial (PET) é um programa do Governo Federal Brasil
 
 *"A longo prazo, a inteligência artificial e automação tomarão muito do que dá aos humanos um sentimento de propósito.*
 - Matt Bellamy, vocalista da banda **Muse**.
+
+---
+
+## Sobre o PET
+O Programa de Educação Tutorial (PET) é um programa do Governo Federal Brasileiro de estímulo à pesquisa e extensão universitárias no nível de graduação. O programa é subordinado à Secretaria de Ensino Superior (SESu) do Ministério da Educação (MEC). Criado em 1989 pelo Professor Doutor Liacir Lucena, o PET – Física faz parte do primeiro grupo de PETs do RN e é o pioneiro no Brasil em cursos de Física. Atualmente, o PET de Física possui doze (12) bolsistas e cinco (5) voluntários. A nossa estrutura consiste de uma sala de estudos equipada com ar-condicionado, mesas individuais para os petianos, computadores conectados a internet e outros itens.
+
+#### Projetos do PET - Física UFRN
+- [PET - Física UFRN](https://petfisica.home.blog)
+- [Curadoria PET](https://petfisica.home.blog/curadoria-do-pet/)
+- [EducaPET](https://petfisica.home.blog/educapet/)
+- [OlimPET](https://petfisica.home.blog/olimpet/)
+- [PET.py](https://petfisica.home.blog/pet-py/)
 
